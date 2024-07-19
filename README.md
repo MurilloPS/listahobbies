@@ -35,5 +35,7 @@ Este componente renderiza a lista completa de hobbies. Ele recebe uma lista de h
 App.js
 
 O componente principal da aplicação. Ele gerencia o estado da lista de hobbies e renderiza os componentes HobbyForm e HobbyList. Ele também contém a lógica para adicionar e remover hobbies.
-(https://github.com/user-attachments/assets/09a6663c-a317-41fd-9c77-2850b17d01cd)
+
+![image](https://github.com/user-attachments/assets/829df0dc-0cb2-4c9c-9c4e-c2770f3beb20)
+
 
