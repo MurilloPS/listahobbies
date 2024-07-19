@@ -1,22 +1,4 @@
-Estrutura do Projeto
-A estrutura do projeto é organizada da seguinte forma:
- 
-java
-Copiar código
-public/
-src/
-  └── components/
-      ├── HobbyForm.jsx
-      ├── HobbyItem.jsx
-      ├── HobbyList.jsx
-  ├── App.css
-  ├── App.js
-  ├── index.css
-  ├── index.js
-.gitignore
-package-lock.json
-package.json
-README.md
+
  
 Componentes
 
